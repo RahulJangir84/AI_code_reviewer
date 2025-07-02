@@ -2,5 +2,4 @@
 /backend/.env
 /frontend/node_modules/
 /frontend/src/assets
-/frontend/public
 /temp.md
