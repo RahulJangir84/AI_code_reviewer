@@ -20,7 +20,7 @@ import 'prismjs/components/prism-markdown'
 import CodeMirror from '@uiw/react-codemirror'
 import { javascript } from '@codemirror/lang-javascript' // Import language you need
 import './App.css'
-const port="http://localhost:3002";
+const port="https://ai-code-reviewer-backend-5srg.onrender.com";
 
 function App() {
   const [code, setCode] = useState('')
