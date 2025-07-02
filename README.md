@@ -1,5 +1,5 @@
 **AI Code Reviewer**
-AI Code Reviewer is a smart tool designed to help developers write better code. Powered by AI, it reviews your code, spots potential issues, and offers helpful suggestions to improve quality, performance, and readability. The project is built with a Node.js/Express backend and a React frontend.
+AI Code Reviewer is a smart tool designed to help developers write better code. Powered by AI, it reviews your code, spots potential issues, and offers helpful suggestions to improve quality, performance, and readability. The project is built with a Node.js/Express backend and a React frontend along with the PrismJs, CodeMirror and react Markdown for better syntax highlighting,autocompletion, linting, and more.
 
 **✨ Features**
 AI-Powered Code Analysis
