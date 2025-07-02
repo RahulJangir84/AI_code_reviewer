@@ -61,6 +61,9 @@ function App() {
 
   return (
     <>
+    <header className='app-header'>
+      <h2>AI Code Reviewer</h2>
+    </header>
     <main>
       <div className="left">
         <div className="code-container">
